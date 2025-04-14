@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // Clear loading message
       activitiesList.innerHTML = "";
 
-      // Populate activities list
+      // Populate activities list 
       Object.entries(activities).forEach(([name, details]) => {
         const activityCard = document.createElement("div");
         activityCard.className = "activity-card";

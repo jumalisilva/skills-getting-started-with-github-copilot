@@ -109,7 +109,7 @@ activities = {
         "description": "Build and program robots for competitions",
         "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 10,
-        "participants": ["aaron@mergington.edu", "chloe@mergington.edu"]
+        "participants": ["aaron@mergington.edu", "chloe@mergington.edu"] 
     }
 }
 

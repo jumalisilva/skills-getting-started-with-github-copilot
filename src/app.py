@@ -55,7 +55,7 @@ activities = {
         "description": "Explore various art techniques and create masterpieces",
         "schedule": "Thursdays, 3:30 PM - 5:00 PM",
         "max_participants": 15,
-        "participants": ["isabella@mergington.edu", "amelia@mergington.edu"] 
+        "participants": ["isabella@mergington.edu", "amelia@mergington.edu"]
     },
     "Drama Club": {
         "description": "Learn acting skills and perform in school plays",

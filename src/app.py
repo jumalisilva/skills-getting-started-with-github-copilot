@@ -97,7 +97,7 @@ activities = {
         "description": "Join the school band and perform in events",
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 20,
-        "participants": ["nora@mergington.edu", "benjamin@mergington.edu"]
+        "participants": ["nora@mergington.edu", "benjamin@mergington.edu"] 
     },
     "Debate Club": {
         "description": "Engage in debates and improve public speaking skills",
